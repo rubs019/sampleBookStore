@@ -1,0 +1,31 @@
+{
+  "name": "samplebookstore",
+  "version": "0.0.1",
+  "description": "Sample bookstore",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubs019/sampleBookStore.git"
+  },
+  "author": "Ruben DESERT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubs019/sampleBookStore/issues"
+  },
+  "homepage": "https://github.com/rubs019/sampleBookStore#readme",
+  "dependencies": {
+    "nuxt": "^2.14.3"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.14.3",
+    "@nuxt/typescript-build": "^2.0.2",
+    "vue-class-component": "^7.2.5",
+    "vue-property-decorator": "^9.0.0"
+  }
+}
