@@ -1,2 +1,0 @@
-# sampleBookStore
-Sample Book store 
